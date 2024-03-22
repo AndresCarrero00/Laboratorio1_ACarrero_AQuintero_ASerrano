@@ -1,13 +1,8 @@
 
-#README del Proyecto
+# README del Proyecto
 
-##Recomendación
-Se recomienda agregar la carpeta "data" (donde estaban las imágenes) dentro de la carpeta del proyecto.
+## Modificación Necesaria
 
-##Nota Importante
-Por razones de peso del archivo, enviamos el proyecto sin la carpeta de imágenes.
-
-##Modificación Necesaria
 Es necesario intercambiar la siguiente línea de código dentro del archivo Laboratorio1.java:
 
 public class Laboratorio1 {
@@ -20,5 +15,6 @@ public class Laboratorio1 {
     public static final String RUTA_BASE = "Ubicación de alguna de las subcarpetas (dogs, cats, etc.)";
 }
 
-##Nota Final
+## Nota Final
+
 ¡Bendiciones, profesor! Si necesita alguna ayuda adicional, no dude en comunicarse con nosotros.
