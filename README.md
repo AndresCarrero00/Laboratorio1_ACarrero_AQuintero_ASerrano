@@ -17,4 +17,4 @@ public class Laboratorio1 {
 
 ## Nota Final
 
-¡Bendiciones, profesor! Si necesita alguna ayuda adicional, no dude en comunicarse con nosotros.
+¡Bendiciones, profesora! Si necesita alguna ayuda adicional, no dude en comunicarse con nosotros.
